@@ -1,8 +1,10 @@
 # splitting_app_ezysplit
- Technologies and Tools used - React JS, Tailwind CSS, NodeJS, ExpressJS, MongoDB, Mongoose, Git,firebase
-Users can add expenses, keep track of shared expenses and calculates the fair share each person owes or is owed in a group, and settle expenses.
-Ezysplit is a user-friendly and feature-rich mobile application designed to simplify the complex process of managing shared expenses within a group. With Ezysplit, users can effortlessly track, divide, and settle expenses among friends, family members, or colleagues, making it easier than ever to keep financial matters fair and transparent.
+ Technologies and Tools used - React JS, Tailwind CSS, HTML 5 , NodeJS, ExpressJS, MongoDB, Mongoose, Git,firebase
 
+Users can add expenses, keep track of shared expenses and calculates the fair share each person owes or is owed in a group, and settle expenses.
+The project is a group project .
+Ezysplit is a user-friendly and feature-rich mobile application designed to simplify the complex process of managing shared expenses within a group. With Ezysplit, users can effortlessly track, divide, and settle expenses among friends, family members, or colleagues, making it easier than ever to keep financial matters fair and transparent.
+The project is a group project
 Key Features:
 
 Expense Management: Easily add expenses to the app, including details such as the date, category, and amount. You can record various types of expenses, such as groceries, dining out, travel, rent, or any other shared costs.
