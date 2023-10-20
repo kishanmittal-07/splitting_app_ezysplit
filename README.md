@@ -1,4 +1,4 @@
-# splitting_app_ezysplit
+# splitting_app_ezysplit  (Backend code: https://github.com/kishanmittal-07/splitting_app_ezysplit_backend)
  Technologies and Tools used - React JS, Tailwind CSS, HTML 5 , NodeJS, ExpressJS, MongoDB, Mongoose, Git,firebase
 
 Users can add expenses, keep track of shared expenses and calculates the fair share each person owes or is owed in a group, and settle expenses.
